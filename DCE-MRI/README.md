@@ -1,8 +1,8 @@
-# StrokeCog_Paper_DCE-MRI_Analysis
+# StrokeCogBBB
 
-https://github.com/olivia-a-jones/StrokeCog_Paper_DCE-MRI_Analysis/blob/main/README.md
+https://github.com/olivia-a-jones/StrokeCogBBB/blob/main/README.md
 
-Analysis scripts for DCE-MRI data in Xue, Jones et al. 2026:  "Blood-brain barrier dysfunction predicts cognitive trajectory after ischemic stroke."
+Analysis scripts for DCE-MRI data in [Xue, Jones et al. 2026:  "Blood-brain barrier dysfunction predicts cognitive trajectory after ischemic stroke."](https://github.com/olivia-a-jones/bcsfb_modelling)
 
 Scripts used to perform image pre-processing, tracer kinetic modelling with the Patlak model, and image segmentation/registration on simulated and in-vivo DCE-MRI data.
 
